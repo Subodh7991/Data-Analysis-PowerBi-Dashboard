@@ -6,8 +6,8 @@ The Madhav Ecommerce Sales Dashboard is an comphrehensive data visualization pro
 - <a href="https://github.com/Subodh7991/Data-Analysis-PowerBi-Dashboard/blob/main/Details.csv">Dataset</a>
 
 ## Objectives
--> Analyze overall ecommerce sales performance \n
--> Identify top-performing products and categories
+-> "Analyze overall ecommerce sales performance" \n
+-> "Identify top-performing products and categories"
 -> Track regional sales distribution
 -> Understand customer purchase patterns
 -> Enable quick decision-making through visual insights
