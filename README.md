@@ -13,11 +13,11 @@ The Madhav Ecommerce Sales Dashboard is an comphrehensive data visualization pro
 -> **Enable quick decision-making through visual insights**
 
 ### Dashboard Features
-📈 **Sales Overview** – Total revenue, profit, and quantity sold
-🌍 **Region-wise Analysis** – State/City performance comparison
-🛍️ **Category & Sub-category Insights**
-👥 **Customer Segmentation Analysis**
-📅 **Time-based Trends** – Monthly/Yearly sales trends
+-📈 **Sales Overview** – Total revenue, profit, and quantity sold
+-🌍 **Region-wise Analysis** – State/City performance comparison
+-🛍️ **Category & Sub-category Insights**
+-👥 **Customer Segmentation Analysis**
+-📅 **Time-based Trends** – Monthly/Yearly sales trends
 
 
 ### Tech Stack
